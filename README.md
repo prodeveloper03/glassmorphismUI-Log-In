@@ -1,2 +1,2 @@
 # glassmorphismUI-Log-In
-This frontend LogIn application based on the theme Glassmorphism
+This is a frontend LogIn application based on the theme Glassmorphism . 
